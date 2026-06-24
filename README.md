@@ -1,2 +1,2 @@
 # Build-a-Survey-Form
-This code is a basic HTML form structure designed for scuba diving class registration. Although the code is incomplete (as it is missing the opening &lt;form> tag and some closing tags), its purpose is to collect personal information and preferences from interested students.
+This code is a basic HTML form structure designed for scuba diving class registration.its purpose is to collect personal information and preferences from interested students.
