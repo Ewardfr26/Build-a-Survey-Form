@@ -37,3 +37,4 @@ Este proyecto contiene un formulario de inscripción que recopila información b
 ## Autor
 
 Proyecto creado para práctica de HTML y formularios web.
+
